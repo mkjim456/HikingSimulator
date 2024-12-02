@@ -2,3 +2,7 @@
 ipch/
 .vs/
 ipch/
+.vs/
+ipch/
+*.ipch
+*.VC.db
